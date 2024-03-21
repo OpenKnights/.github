@@ -1,6 +1,6 @@
-## 你好，我们是OpenKnights
+## Hello, we are the OpenKnights,
 
-一群勇于探索和保护开源精神的骑士！
+> A group of knights dedicated to exploring and safeguarding the spirit of open source!
 
 
  
