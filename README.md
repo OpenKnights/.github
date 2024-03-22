@@ -1,2 +1,2 @@
 # .github
-组织自述库 
+Organization readme library
