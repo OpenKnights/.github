@@ -2,8 +2,6 @@
 
 > Open source knights united by honor, courage, and code.
 
-Building high-quality TypeScript tools with integrity and craftsmanship.
-
 ## 🚀 Projects
 
 - **[Veloxa](https://github.com/OpenKnights/veloxa)** - Fast, native request library based on the Fetch API
