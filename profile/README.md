@@ -6,7 +6,7 @@
 
 - **[kedash](https://github.com/OpenKnights/kedash)** - Functional utility library - modern, simple, typed, powerful
 - **[veloxa](https://github.com/OpenKnights/veloxa)** - Fast, native request library based on the Fetch API
-- **[better-mock-server](https://github.com/OpenKnights/better-mock-server)** - Lightweight mock server built on unjs/h3
+- **[kaivo](https://github.com/OpenKnights/kaivo)** - A lightweight, TypeScript-first library built on unjs/h3 for quickly creating HTTP servers.
 - **[evenex](https://github.com/OpenKnights/evenex)** - Event bus library implemented in TypeScript
 - **[storadapt](https://github.com/OpenKnights/storadapt)** - Flexible storage adapter with deep path updates and auto-serialization
 
